@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tone&#39;s Blog</title>
+    <link>https://zer0web.github.io/</link>
+    <description>Tone&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 28 Feb 2022 18:36:39 +0100</lastBuildDate>
+    
+    <atom:link href="https://zer0web.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TV Cookies</title>
+      <link>https://zer0web.github.io/posts/tv-cookies/</link>
+      <pubDate>Mon, 28 Feb 2022 18:55:07 +0100</pubDate>
+      
+      <guid>https://zer0web.github.io/posts/tv-cookies/</guid>
+      <description>&lt;p&gt;Jetzt gibt es sogar schon Cookiemeldungen in der Glotze..&lt;/p&gt;
+&lt;p&gt;Einfach nur krank&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zer0web.github.io/img/tv-cookies.jpg&#34; alt=&#34;TV Cookies&#34; title=&#34;TV Cookies&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://zer0web.github.io/about/</link>
+      <pubDate>Mon, 28 Feb 2022 18:36:39 +0100</pubDate>
+      
+      <guid>https://zer0web.github.io/about/</guid>
+      <description>&lt;p&gt;Hier entsteht mein Blog.&lt;/p&gt;
+&lt;p&gt;Weitere Info&amp;rsquo;s folgen.. möglicherweise..&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
