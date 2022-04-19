@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://zer0web.github.io/posts/mein-banken-rant/</loc>
+    <lastmod>2022-04-19T11:11:39+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zer0web.github.io/tags/nonsense/</loc>
-    <lastmod>2022-03-05T17:13:41+01:00</lastmod>
+    <lastmod>2022-04-19T11:11:39+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://zer0web.github.io/posts/</loc>
-    <lastmod>2022-03-05T17:13:41+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zer0web.github.io/posts/spa%C3%9F-in-der-fabrik-dll/</loc>
-    <lastmod>2022-03-05T17:13:41+01:00</lastmod>
+    <lastmod>2022-04-19T11:11:39+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://zer0web.github.io/tags/</loc>
+    <lastmod>2022-04-19T11:11:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zer0web.github.io/posts/spa%C3%9F-in-der-fabrik-dll/</loc>
     <lastmod>2022-03-05T17:13:41+01:00</lastmod>
   </url>
   
