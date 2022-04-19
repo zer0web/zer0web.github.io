@@ -6,7 +6,7 @@
     <description>Tone&#39;s Blog (nonsense)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 19 Apr 2022 11:11:39 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 Apr 2022 12:27:45 +0200</lastBuildDate>
     
     <atom:link href="https://zer0web.github.io/tags/nonsense/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,15 +14,15 @@
     <item>
       <title>Mein Banken-Rant</title>
       <link>https://zer0web.github.io/posts/mein-banken-rant/</link>
-      <pubDate>Tue, 19 Apr 2022 11:11:39 +0200</pubDate>
+      <pubDate>Tue, 19 Apr 2022 12:27:45 +0200</pubDate>
       
       <guid>https://zer0web.github.io/posts/mein-banken-rant/</guid>
-      <description>&lt;p&gt;Als ich letztes Wochenende bei ebay-Kleinanzeigen wieder etwas gefunden habe, was ich unbedingt haben musste (Spoiler: sieht meine Freundin anders) und ich dem Verkäufer mein hart erarbeitetes Geld zuwerfen wollte, traf es mich wieder: der Verkäufer akzeptiert kein paypal, nur Überweisung.
+      <description>&lt;p&gt;Als ich letztes Wochenende bei ebay-Kleinanzeigen wieder etwas gefunden habe, was ich unbedingt haben musste (Spoiler: sieht meine Freundin anders) und ich dem Verkäufer mein hart erarbeitetes Geld zuwerfen wollte, traf es mich wieder: der Verkäufer akzeptiert kein paypal, nur Überweisung. 
 Sofort artete das schöne Shoppingerlebnis wieder in Arbeit aus.&lt;/p&gt;
 &lt;h2 id=&#34;überweisungen&#34;&gt;Überweisungen&lt;/h2&gt;
-&lt;p&gt;Was ist das Problem? Zunächst gilt es abzuwägen wie vertrauenswürdig der Verkäufer ist und um wieviel Geld es sich handelt. ebay hat das zum Glück schon erkannt und bietet inzwischen eine Vielzahl an Bewertungen wie &amp;ldquo;Zuverlässigkeit&amp;rdquo; und &amp;ldquo;Freundlichkeit&amp;rdquo; an, am ehesten merkt man es aber einfach anhand der Kommunikation mit dem Gegenüber. Das sind aber natürlich alles nur Indizien.
-Das Problem nämlich bei Überweisung: das Geld ist weg.
-Der Verkäufer ist ein Betrüger? Egal! Geld weg.
+&lt;p&gt;Was ist das Problem? Zunächst gilt es abzuwägen wie vertrauenswürdig der Verkäufer ist und um wieviel Geld es sich handelt. ebay hat das zum Glück schon erkannt und bietet inzwischen eine Vielzahl an Bewertungen wie &amp;ldquo;Zuverlässigkeit&amp;rdquo; und &amp;ldquo;Freundlichkeit&amp;rdquo; an, am ehesten merkt man es aber einfach anhand der Kommunikation mit dem Gegenüber. Das sind aber natürlich alles nur Indizien. 
+Das Problem nämlich bei Überweisung: das Geld ist weg. 
+Der Verkäufer ist ein Betrüger? Egal! Geld weg. 
 Bei der IBAN vertippt? Egal! Geld weg.
 Gut, nun mag der eine oder andere argumentieren, dass wenn man lange genug wartet oder beharrlich bleibt (man hat ja die Daten des Verkäufers), man schon irgendwann wieder an das Geld kommt. Aber ist es mir das alles Wert für 20€?
 Bei Paypal geht das mit einem Klick und die Sache ist gegessen.
@@ -38,7 +38,7 @@ Die Sparkassen bieten auch eine App namens Kwitt an, dass ist wohl effektiv das 
 &lt;p&gt;Macht daraus doch einfach den neuen Standard. Was macht ihr denn sonst mit euren ganzen Serverfarmen?? Achja, Trades im Nanosekundenbereich abschließen.. das klingt auf jeden Fall wichtiger als Kundenzufriedenheit.
 Das ist sowieso noch eine ganz andere Perversion, welche einen eigenen Artikel füllen könnte.&lt;/p&gt;
 &lt;h2 id=&#34;kreditkarten&#34;&gt;Kreditkarten&lt;/h2&gt;
-&lt;p&gt;Kreditkarten sind im Prinzip wie Überweisungen, nur noch viel schlimmer. Klar, ein Vielbenutzer oder kleines Kind welches sich die Karte vom Papa mal &amp;ldquo;kurz borgt&amp;rdquo; merkt sich die Nummer irgendwann. Nichts desto trotz das gleiche Prinzip: lange Nummer eingeben und Geld weg. Was hier sogar noch viel besser ist: man kann einfach nichts machen, wenn der Gegenüber zu viel abbucht und sich bedient.
+&lt;p&gt;Kreditkarten sind im Prinzip wie Überweisungen, nur noch viel schlimmer. Klar, ein Vielbenutzer oder kleines Kind welches sich die Karte vom Papa mal &amp;ldquo;kurz borgt&amp;rdquo; merkt sich die Nummer irgendwann. Nichts desto trotz das gleiche Prinzip: lange Nummer eingeben und Geld weg. Was hier sogar noch viel besser ist: man kann einfach nichts machen, wenn der Gegenüber zu viel abbucht und sich bedient. 
 Die Lösung: na dann einfach die komplette Karte sperren und eine Neue beantragen.. wtf?! und dafür dann am besten auch nochmal 20€ auf den Tisch legen.
 Wer hat dieses Konzept eigentlich abgesegnet?&lt;/p&gt;
 &lt;p&gt;Dagegen Paypal: ich kann einzelne Empfänger freischalten und auch wieder sperren. Das muss den Banken anscheinend irgendwie zu sinnvoll vorgekommen sein.
