@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>it on Tone&#39;s Blog</title>
+    <link>https://zer0web.github.io/tags/it/</link>
+    <description>Tone&#39;s Blog (it)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 17 Oct 2022 21:57:53 +0200</lastBuildDate>
+    
+    <atom:link href="https://zer0web.github.io/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weniger ist mehr - keine Werbung mehr</title>
+      <link>https://zer0web.github.io/posts/weniger-ist-mehr-keine-werbung-mehr/</link>
+      <pubDate>Mon, 17 Oct 2022 21:57:53 +0200</pubDate>
+      
+      <guid>https://zer0web.github.io/posts/weniger-ist-mehr-keine-werbung-mehr/</guid>
+      <description>&lt;p&gt;Heute möchte ich mal über eine coole Funktion von Wireguard berichten.&lt;/p&gt;
+&lt;p&gt;Klar, Wireguard kennt man, spätestens seitdem es im Linux-Kernel ist. Neuer VPN-Typ, ressourcensparend, jung und trendy!&lt;/p&gt;
+&lt;p&gt;Was zumindest ich noch nicht kannte, ist das Autoconnect- alias On-Demand-Feature auf iOS und Android.&lt;br&gt;
+Was bei iOS mit anderen VPN-Typen nur mit Aufwand über Profile und Apple Configurator geht, geht bei Wireguard einfach so. &lt;br&gt;
+Ja! Einfach so!!&lt;br&gt;
+Man gibt einfach in der App ein, ob sich der VPN im Mobilfunk und bei ausgewählten WLANs automatisch verbinden soll und that&amp;rsquo;s it!&lt;/p&gt;
+&lt;p&gt;Der eigentliche Aufhänger war die Überlegung, wie ich von unterwegs möglichst komfortabel ein pihole benutzen kann und nun habe ich eine super Lösung gefunden.&lt;/p&gt;
+&lt;p&gt;Überwältigt vom Erfolg, wollte ich das gleich mit euch teilen :)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quicktipp für IT-Leiter</title>
+      <link>https://zer0web.github.io/posts/quicktipp-f%C3%BCr-it-leiter/</link>
+      <pubDate>Thu, 25 Aug 2022 18:22:53 +0200</pubDate>
+      
+      <guid>https://zer0web.github.io/posts/quicktipp-f%C3%BCr-it-leiter/</guid>
+      <description>&lt;p&gt;Heute mal ein kleiner Tipp an alle IT-Leiter, Personaler und Konsorten&lt;/p&gt;
+&lt;p&gt;Die ganzen Leute, die ihr wegen mangelnder Erfahrung nicht einstellt, stellt euer nächstgelegenes Systemhaus ein, pumpt die 1-2 Monate mit Schulungen voll und verkauft die dann für 800€/Tag an euch.&lt;/p&gt;
+&lt;p&gt;Bei der nächsten Bewerbung also vielleicht nochmal nachrechnen, was wirklich billiger kommt.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

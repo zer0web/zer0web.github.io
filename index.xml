@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tone&#39;s Blog</title>
+    <link>https://zer0web.github.io/</link>
+    <description>Tone&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 28 Feb 2022 18:36:39 +0100</lastBuildDate>
+    
+    <atom:link href="https://zer0web.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weniger ist mehr - keine Werbung mehr</title>
+      <link>https://zer0web.github.io/posts/weniger-ist-mehr-keine-werbung-mehr/</link>
+      <pubDate>Mon, 17 Oct 2022 21:57:53 +0200</pubDate>
+      
+      <guid>https://zer0web.github.io/posts/weniger-ist-mehr-keine-werbung-mehr/</guid>
+      <description>&lt;p&gt;Heute möchte ich mal über eine coole Funktion von Wireguard berichten.&lt;/p&gt;
+&lt;p&gt;Klar, Wireguard kennt man, spätestens seitdem es im Linux-Kernel ist. Neuer VPN-Typ, ressourcensparend, jung und trendy!&lt;/p&gt;
+&lt;p&gt;Was zumindest ich noch nicht kannte, ist das Autoconnect- alias On-Demand-Feature auf iOS und Android.&lt;br&gt;
+Was bei iOS mit anderen VPN-Typen nur mit Aufwand über Profile und Apple Configurator geht, geht bei Wireguard einfach so. &lt;br&gt;
+Ja! Einfach so!!&lt;br&gt;
+Man gibt einfach in der App ein, ob sich der VPN im Mobilfunk und bei ausgewählten WLANs automatisch verbinden soll und that&amp;rsquo;s it!&lt;/p&gt;
+&lt;p&gt;Der eigentliche Aufhänger war die Überlegung, wie ich von unterwegs möglichst komfortabel ein pihole benutzen kann und nun habe ich eine super Lösung gefunden.&lt;/p&gt;
+&lt;p&gt;Überwältigt vom Erfolg, wollte ich das gleich mit euch teilen :)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quicktipp für IT-Leiter</title>
+      <link>https://zer0web.github.io/posts/quicktipp-f%C3%BCr-it-leiter/</link>
+      <pubDate>Thu, 25 Aug 2022 18:22:53 +0200</pubDate>
+      
+      <guid>https://zer0web.github.io/posts/quicktipp-f%C3%BCr-it-leiter/</guid>
+      <description>&lt;p&gt;Heute mal ein kleiner Tipp an alle IT-Leiter, Personaler und Konsorten&lt;/p&gt;
+&lt;p&gt;Die ganzen Leute, die ihr wegen mangelnder Erfahrung nicht einstellt, stellt euer nächstgelegenes Systemhaus ein, pumpt die 1-2 Monate mit Schulungen voll und verkauft die dann für 800€/Tag an euch.&lt;/p&gt;
+&lt;p&gt;Bei der nächsten Bewerbung also vielleicht nochmal nachrechnen, was wirklich billiger kommt.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mein Banken-Rant</title>
+      <link>https://zer0web.github.io/posts/mein-banken-rant/</link>
+      <pubDate>Tue, 19 Apr 2022 12:28:40 +0200</pubDate>
+      
+      <guid>https://zer0web.github.io/posts/mein-banken-rant/</guid>
+      <description>&lt;p&gt;Als ich letztes Wochenende bei ebay-Kleinanzeigen wieder etwas gefunden habe, was ich unbedingt haben musste (Spoiler: sieht meine Freundin anders) und ich dem Verkäufer mein hart erarbeitetes Geld zuwerfen wollte, traf es mich wieder: der Verkäufer akzeptiert kein paypal, nur Überweisung. &lt;br&gt;
+Sofort artete das schöne Shoppingerlebnis wieder in Arbeit aus.&lt;/p&gt;
+&lt;h2 id=&#34;überweisungen&#34;&gt;Überweisungen&lt;/h2&gt;
+&lt;p&gt;Was ist das Problem? Zunächst gilt es abzuwägen wie vertrauenswürdig der Verkäufer ist und um wieviel Geld es sich handelt. ebay hat das zum Glück schon erkannt und bietet inzwischen eine Vielzahl an Bewertungen wie &amp;ldquo;Zuverlässigkeit&amp;rdquo; und &amp;ldquo;Freundlichkeit&amp;rdquo; an, am ehesten merkt man es aber einfach anhand der Kommunikation mit dem Gegenüber. Das sind aber natürlich alles nur Indizien. &lt;br&gt;
+Das Problem nämlich bei Überweisung: das Geld ist weg. &lt;br&gt;
+Der Verkäufer ist ein Betrüger? Egal! Geld weg. &lt;br&gt;
+Bei der IBAN vertippt? Egal! Geld weg.&lt;br&gt;
+Gut, nun mag der eine oder andere argumentieren, dass wenn man lange genug wartet oder beharrlich bleibt (man hat ja die Daten des Verkäufers), man schon irgendwann wieder an das Geld kommt. Aber ist es mir das alles Wert für 20€?&lt;br&gt;
+Bei Paypal geht das mit einem Klick und die Sache ist gegessen.&lt;br&gt;
+Auch sind Überweisungen einfach nicht bequem. Die IBAN ist elend lang, warum kann man die nicht einfach in einen QR-Code werfen und ihn der App zum fressen geben? Oder einfach die Mail des Empfängers angeben. Wenn man das aus Datenschutzgründen nicht möchte, hat man ja trotzdem noch die IBAN, aber allein die Option wäre nett.&lt;br&gt;
+Noch dazu ist es einfach nervig jedes Mal den TAN-Generator aus der Ecke zu holen. Sicherheit muss anscheinend wirklich weh tun, zumindest nach Meinung der Banken.&lt;br&gt;
+Auf die TAN-App habe ich mich nie eingelassen, da ich zu dem Zeitpunkt als sie noch relativ neu waren regelmäßig Sicherheitslecks hatten. Soviel ist mir der Komfort dann doch nicht wert.&lt;br&gt;
+Die Sparkassen bieten auch eine App namens Kwitt an, dass ist wohl effektiv das Paypal von denen. Nun funktioniert das aber nur für bestimmte Banken.. Ich habe doch keine Ahnung wer bei welcher Bank ist und habe auch keine Lust das jedes Mal erst rausfinden zu müssen!&lt;/p&gt;
+&lt;p&gt;Zum Schluss noch die Echtzeitüberweisung:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Warum hat das überhaupt so lang gedauert und&lt;/li&gt;
+&lt;li&gt;Warum ist das nach wie vor optional?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Macht daraus doch einfach den neuen Standard. Was macht ihr denn sonst mit euren ganzen Serverfarmen?? Achja, Trades im Nanosekundenbereich abschließen.. das klingt auf jeden Fall wichtiger als Kundenzufriedenheit.&lt;br&gt;
+Das ist sowieso noch eine ganz andere Perversion, welche einen eigenen Artikel füllen könnte.&lt;/p&gt;
+&lt;h2 id=&#34;kreditkarten&#34;&gt;Kreditkarten&lt;/h2&gt;
+&lt;p&gt;Kreditkarten sind im Prinzip wie Überweisungen, nur noch viel schlimmer. Klar, ein Vielbenutzer oder kleines Kind welches sich die Karte vom Papa mal &amp;ldquo;kurz borgt&amp;rdquo; merkt sich die Nummer irgendwann. Nichts desto trotz das gleiche Prinzip: lange Nummer eingeben und Geld weg. Was hier sogar noch viel besser ist: man kann einfach nichts machen, wenn der Gegenüber zu viel abbucht und sich bedient. &lt;br&gt;
+Die Lösung: na dann einfach die komplette Karte sperren und eine Neue beantragen.. wtf?! und dafür dann am besten auch nochmal 20€ auf den Tisch legen.&lt;br&gt;
+Wer hat dieses Konzept eigentlich abgesegnet?&lt;/p&gt;
+&lt;p&gt;Dagegen Paypal: ich kann einzelne Empfänger freischalten und auch wieder sperren. Das muss den Banken anscheinend irgendwie zu sinnvoll vorgekommen sein.&lt;br&gt;
+Ein anderer Hersteller der das Problem löst ist Privacy. Leider kann ich deren Dienst als nicht-US-Bürger allerdings nicht nutzen.&lt;br&gt;
+Das Konzept ist, dass man sich bei Privacy virtuelle Kreditkarten anlegt, welche man auch nur bis zu einen bestimmten Betrag deckeln kann, da man sich hier mehrere Karten anlegen kann.&lt;br&gt;
+Da das Konzept hier ist eine Karte pro Empfänger zu haben, tut es hier auch nicht weh, wenn man die Karte einfach (mit vermutlich einem Klick und kostenlos löscht). Cool!&lt;/p&gt;
+&lt;h2 id=&#34;fazit&#34;&gt;Fazit&lt;/h2&gt;
+&lt;p&gt;Es ist schon bemerkenswert, dass die Firmen mit der meisten Kohle nicht mal einen Bruchteil davon investieren wollen, um ihr Geschäft mal auf einen aktuellen Stand zu bringen. Man schaue sich nur die Bankautomaten mit Windows XP an. Ach ne, dass ist ja gar nicht mehr aktuell, nun haben sie Windows 7, pardon.&lt;/p&gt;
+&lt;p&gt;Das Hauptproblem ist wahrscheinlich, dass dafür alle Banken an einem Strang ziehen müssen um kompatibel zu bleiben. Das ist eben der Nachteil an solchen dezentralen Systemen.&lt;br&gt;
+Es kann allerdings auch nicht die Lösung sein alles so verwahrlosen zu lassen, dass man alles Geld zu einer privaten US-Firma wie paypal schieben muss, nur wenn man auch einen gewissen Käuferschutz haben möchte.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spaß in der Fabrik - DLL</title>
+      <link>https://zer0web.github.io/posts/spa%C3%9F-in-der-fabrik-dll/</link>
+      <pubDate>Sat, 05 Mar 2022 17:13:41 +0100</pubDate>
+      
+      <guid>https://zer0web.github.io/posts/spa%C3%9F-in-der-fabrik-dll/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://zer0web.github.io/img/dienstleistungsleiter.jpeg&#34; alt=&#34;DLL&#34; title=&#34;DLL&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TV Cookies</title>
+      <link>https://zer0web.github.io/posts/tv-cookies/</link>
+      <pubDate>Mon, 28 Feb 2022 18:55:07 +0100</pubDate>
+      
+      <guid>https://zer0web.github.io/posts/tv-cookies/</guid>
+      <description>&lt;p&gt;Jetzt gibt es sogar schon Cookiemeldungen in der Glotze..&lt;/p&gt;
+&lt;p&gt;Einfach nur krank&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zer0web.github.io/img/tv-cookies.jpg&#34; alt=&#34;TV Cookies&#34; title=&#34;TV Cookies&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://zer0web.github.io/about/</link>
+      <pubDate>Mon, 28 Feb 2022 18:36:39 +0100</pubDate>
+      
+      <guid>https://zer0web.github.io/about/</guid>
+      <description>&lt;p&gt;Hier entsteht mein Blog.&lt;/p&gt;
+&lt;p&gt;Weitere Info&amp;rsquo;s folgen.. möglicherweise..&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
