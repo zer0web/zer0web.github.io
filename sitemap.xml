@@ -1,64 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://zer0web.github.io/tags/it/</loc>
     <lastmod>2022-10-17T21:57:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zer0web.github.io/posts/</loc>
     <lastmod>2022-10-17T21:57:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zer0web.github.io/tags/</loc>
     <lastmod>2022-10-17T21:57:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://zer0web.github.io/</loc>
+    <lastmod>2022-10-17T21:57:53+02:00</lastmod>
+  </url><url>
     <loc>https://zer0web.github.io/posts/weniger-ist-mehr-keine-werbung-mehr/</loc>
     <lastmod>2022-10-17T21:57:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zer0web.github.io/posts/quicktipp-f%C3%BCr-it-leiter/</loc>
     <lastmod>2022-08-25T18:22:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zer0web.github.io/posts/mein-banken-rant/</loc>
     <lastmod>2022-04-19T12:28:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zer0web.github.io/tags/nonsense/</loc>
     <lastmod>2022-04-19T12:28:40+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zer0web.github.io/posts/spa%C3%9F-in-der-fabrik-dll/</loc>
     <lastmod>2022-03-05T17:13:41+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zer0web.github.io/posts/tv-cookies/</loc>
     <lastmod>2022-02-28T18:55:07+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zer0web.github.io/about/</loc>
     <lastmod>2022-02-28T18:36:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zer0web.github.io/</loc>
-    <lastmod>2022-02-28T18:36:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zer0web.github.io/categories/</loc>
   </url>
-  
 </urlset>

@@ -19,8 +19,13 @@
       <guid>https://zer0web.github.io/posts/mein-banken-rant/</guid>
       <description>&lt;p&gt;Als ich letztes Wochenende bei ebay-Kleinanzeigen wieder etwas gefunden habe, was ich unbedingt haben musste (Spoiler: sieht meine Freundin anders) und ich dem Verkäufer mein hart erarbeitetes Geld zuwerfen wollte, traf es mich wieder: der Verkäufer akzeptiert kein paypal, nur Überweisung. &lt;br&gt;
 Sofort artete das schöne Shoppingerlebnis wieder in Arbeit aus.&lt;/p&gt;
-&lt;h2 id=&#34;überweisungen&#34;&gt;Überweisungen&lt;/h2&gt;
-&lt;p&gt;Was ist das Problem? Zunächst gilt es abzuwägen wie vertrauenswürdig der Verkäufer ist und um wieviel Geld es sich handelt. ebay hat das zum Glück schon erkannt und bietet inzwischen eine Vielzahl an Bewertungen wie &amp;ldquo;Zuverlässigkeit&amp;rdquo; und &amp;ldquo;Freundlichkeit&amp;rdquo; an, am ehesten merkt man es aber einfach anhand der Kommunikation mit dem Gegenüber. Das sind aber natürlich alles nur Indizien. &lt;br&gt;
+&lt;h2 id=&#34;überweisungen&#34; &gt;Überweisungen
+&lt;span&gt;
+    &lt;a href=&#34;#%c3%bcberweisungen&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Was ist das Problem? Zunächst gilt es abzuwägen wie vertrauenswürdig der Verkäufer ist und um wieviel Geld es sich handelt. ebay hat das zum Glück schon erkannt und bietet inzwischen eine Vielzahl an Bewertungen wie &amp;ldquo;Zuverlässigkeit&amp;rdquo; und &amp;ldquo;Freundlichkeit&amp;rdquo; an, am ehesten merkt man es aber einfach anhand der Kommunikation mit dem Gegenüber. Das sind aber natürlich alles nur Indizien. &lt;br&gt;
 Das Problem nämlich bei Überweisung: das Geld ist weg. &lt;br&gt;
 Der Verkäufer ist ein Betrüger? Egal! Geld weg. &lt;br&gt;
 Bei der IBAN vertippt? Egal! Geld weg.&lt;br&gt;
@@ -37,16 +42,26 @@ Die Sparkassen bieten auch eine App namens Kwitt an, dass ist wohl effektiv das 
 &lt;/ol&gt;
 &lt;p&gt;Macht daraus doch einfach den neuen Standard. Was macht ihr denn sonst mit euren ganzen Serverfarmen?? Achja, Trades im Nanosekundenbereich abschließen.. das klingt auf jeden Fall wichtiger als Kundenzufriedenheit.&lt;br&gt;
 Das ist sowieso noch eine ganz andere Perversion, welche einen eigenen Artikel füllen könnte.&lt;/p&gt;
-&lt;h2 id=&#34;kreditkarten&#34;&gt;Kreditkarten&lt;/h2&gt;
-&lt;p&gt;Kreditkarten sind im Prinzip wie Überweisungen, nur noch viel schlimmer. Klar, ein Vielbenutzer oder kleines Kind welches sich die Karte vom Papa mal &amp;ldquo;kurz borgt&amp;rdquo; merkt sich die Nummer irgendwann. Nichts desto trotz das gleiche Prinzip: lange Nummer eingeben und Geld weg. Was hier sogar noch viel besser ist: man kann einfach nichts machen, wenn der Gegenüber zu viel abbucht und sich bedient. &lt;br&gt;
+&lt;h2 id=&#34;kreditkarten&#34; &gt;Kreditkarten
+&lt;span&gt;
+    &lt;a href=&#34;#kreditkarten&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Kreditkarten sind im Prinzip wie Überweisungen, nur noch viel schlimmer. Klar, ein Vielbenutzer oder kleines Kind welches sich die Karte vom Papa mal &amp;ldquo;kurz borgt&amp;rdquo; merkt sich die Nummer irgendwann. Nichts desto trotz das gleiche Prinzip: lange Nummer eingeben und Geld weg. Was hier sogar noch viel besser ist: man kann einfach nichts machen, wenn der Gegenüber zu viel abbucht und sich bedient. &lt;br&gt;
 Die Lösung: na dann einfach die komplette Karte sperren und eine Neue beantragen.. wtf?! und dafür dann am besten auch nochmal 20€ auf den Tisch legen.&lt;br&gt;
 Wer hat dieses Konzept eigentlich abgesegnet?&lt;/p&gt;
 &lt;p&gt;Dagegen Paypal: ich kann einzelne Empfänger freischalten und auch wieder sperren. Das muss den Banken anscheinend irgendwie zu sinnvoll vorgekommen sein.&lt;br&gt;
 Ein anderer Hersteller der das Problem löst ist Privacy. Leider kann ich deren Dienst als nicht-US-Bürger allerdings nicht nutzen.&lt;br&gt;
 Das Konzept ist, dass man sich bei Privacy virtuelle Kreditkarten anlegt, welche man auch nur bis zu einen bestimmten Betrag deckeln kann, da man sich hier mehrere Karten anlegen kann.&lt;br&gt;
 Da das Konzept hier ist eine Karte pro Empfänger zu haben, tut es hier auch nicht weh, wenn man die Karte einfach (mit vermutlich einem Klick und kostenlos löscht). Cool!&lt;/p&gt;
-&lt;h2 id=&#34;fazit&#34;&gt;Fazit&lt;/h2&gt;
-&lt;p&gt;Es ist schon bemerkenswert, dass die Firmen mit der meisten Kohle nicht mal einen Bruchteil davon investieren wollen, um ihr Geschäft mal auf einen aktuellen Stand zu bringen. Man schaue sich nur die Bankautomaten mit Windows XP an. Ach ne, dass ist ja gar nicht mehr aktuell, nun haben sie Windows 7, pardon.&lt;/p&gt;
+&lt;h2 id=&#34;fazit&#34; &gt;Fazit
+&lt;span&gt;
+    &lt;a href=&#34;#fazit&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Es ist schon bemerkenswert, dass die Firmen mit der meisten Kohle nicht mal einen Bruchteil davon investieren wollen, um ihr Geschäft mal auf einen aktuellen Stand zu bringen. Man schaue sich nur die Bankautomaten mit Windows XP an. Ach ne, dass ist ja gar nicht mehr aktuell, nun haben sie Windows 7, pardon.&lt;/p&gt;
 &lt;p&gt;Das Hauptproblem ist wahrscheinlich, dass dafür alle Banken an einem Strang ziehen müssen um kompatibel zu bleiben. Das ist eben der Nachteil an solchen dezentralen Systemen.&lt;br&gt;
 Es kann allerdings auch nicht die Lösung sein alles so verwahrlosen zu lassen, dass man alles Geld zu einer privaten US-Firma wie paypal schieben muss, nur wenn man auch einen gewissen Käuferschutz haben möchte.&lt;/p&gt;</description>
     </item>
